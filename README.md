@@ -1,7 +1,8 @@
 # convolution
 
 Main: Convolution of an image stack with a psf stack; difference between our convolution and scipy.signal.fftconvolve
-Functions: background removal, normalization, zero-padding, convolution
+\nFunctions: Background removal, normalization, zero-padding, convolution
+\nClass: Specific class to manage stacks: open, visualize and save them
 
 
-To do list: - study how to manage image directly on github
+\n\nTo do list: - study how to manage image directly on github
